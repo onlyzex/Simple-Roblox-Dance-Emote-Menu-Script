@@ -127,7 +127,6 @@ local emotes = {
 	{name="Concert Dance", animId=119159857703733},
 	{name="Korean Dance", animId=103097233919227},
 	{name="Nippon Dance", animId=126092655593662},
-  {name="Custom 1", animId=1212MasukanAssetIDnya}
 }
 
 local currentTrack = nil
