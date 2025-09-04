@@ -40,4 +40,18 @@ Repositori ini menghadirkan sistem emote yang lengkap, dibuat menggunakan bahasa
 2.  Sesuaikan tabel data **`emotes`** di dalam skrip dengan **`AnimationId`** dan nama milik Anda sendiri.
 3.  Kode ini menyediakan fondasi sempurna untuk membangun sistem emote yang terlihat profesional dan berfungsi penuh untuk game Anda.
 
+-----------------------------------------------------
+
+# Custom Your Emote Dance:
+find this and change it by yourself
+```lua
+local emotes = {
+	{name="Pacu Jalur", animId=118552217459650},
+	{name="Switchway Dance", animId=112534296956901},
+	{name="Happy Dance", animId=104149584253673},
+	{name="Concert Dance", animId=119159857703733},
+	{name="Korean Dance", animId=103097233919227},
+	{name="Nippon Dance", animId=126092655593662}
+}
+```
 Coded with ❤️ by Ibra
