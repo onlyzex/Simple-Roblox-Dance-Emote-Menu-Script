@@ -14,6 +14,7 @@ gui.IgnoreGuiInset = true
 gui.ResetOnSpawn = false
 gui.Parent = playerGui
 
+-- Gui Scale - Buat Atur Ukuran Gui
 local uiScale = Instance.new("UIScale")
 uiScale.Scale = 0.65 
 uiScale.Parent = gui
